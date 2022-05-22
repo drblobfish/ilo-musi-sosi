@@ -1,9 +1,13 @@
 # ilo-musi-sosi
 
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-inkscape.svg)](https://inkscape.org/) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
 
 
-![sosi logo](logo/logo-black-white-outline.svg)
+<p align="center">
+    <img src="logo/logo-black-white-outline.svg" width="50%">
+    <br />
+    <i align="center">A toki pona learning board game</i>
+</p>
 
 
 A board game similar to [Concept](https://en.wikipedia.org/wiki/Concept_(board_game)), using sitelen pona glyph from the constructed language [toki pona](https://en.wikipedia.org/wiki/Toki_Pona)
