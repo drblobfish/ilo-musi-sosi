@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202205011111+08b2f3d93c)"
+   sodipodi:docname="test-svg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.95684002"
+     inkscape:cx="377.8061"
+     inkscape:cy="633.85726"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g46222" />
+  <defs
+     id="defs2">
+    <rect
+       x="323.70479"
+       y="637.0029"
+       width="179.98906"
+       height="86.65812"
+       id="rect7293" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g46222">
+      <image
+         preserveAspectRatio="none"
+         inkscape:svg-dpi="96"
+         width="27.502115"
+         height="31.312115"
+         xlink:href="../sitelen_pona_svg/Suno.svg"
+         id="image914"
+         x="91.24894"
+         y="132.49698" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-3.8063069,-8.0142434)"
+         id="text7291"
+         style="font-size:53.3333px;line-height:0.3;font-family:sans-serif;white-space:pre;shape-inside:url(#rect7293)"
+         x="19.491266"
+         y="0"><tspan
+           x="380.20594"
+           y="658.85806"
+           id="tspan49445"><tspan
+             style="font-family:Karumbi;-inkscape-font-specification:Karumbi;text-align:center;text-anchor:middle"
+             id="tspan49443">suno
+</tspan></tspan><tspan
+           x="345.56612"
+           y="683.46664"
+           id="tspan49449"><tspan
+             style="font-family:Karumbi;-inkscape-font-specification:Karumbi;text-align:center;text-anchor:middle"
+             id="tspan49447">sun, light</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
