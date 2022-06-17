@@ -13,6 +13,12 @@
 A board game similar to [Concept](https://en.wikipedia.org/wiki/Concept_(board_game)), using sitelen pona glyph from the constructed language [toki pona](https://en.wikipedia.org/wiki/Toki_Pona)
 
 
+## To do
+
+- clean the repository, especially the code to insert automatically the nimis.
+
+
+## Ressources used
 
 [SVGs of sitelen pona in Sonja Lang's handwriting](https://commons.wikimedia.org/wiki/Category:SVGs_of_sitelen_pona_in_Sonja_Lang%27s_handwriting), by LiliCharlie. CC0
 
