@@ -1,0 +1,3 @@
+[submodule "multilingual-toki-pona-dictionary"]
+	path = multilingual-toki-pona-dictionary
+	url = git@github.com:drblobfish/multilingual-toki-pona-dictionary.git
