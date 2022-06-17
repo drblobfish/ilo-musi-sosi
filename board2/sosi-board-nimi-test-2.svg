@@ -1,0 +1,3830 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 1587.4016 1122.5197"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202205011111+08b2f3d93c)"
+   sodipodi:docname="sosi-board-nimi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5961395"
+     inkscape:cx="759.01887"
+     inkscape:cy="494.00444"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="643.37364"
+       y="502.13197"
+       width="143.64004"
+       height="64.535596"
+       id="rect6765" />
+    <rect
+       x="760"
+       y="460"
+       width="0"
+       height="40"
+       id="rect14074" />
+    <rect
+       x="620"
+       y="80"
+       width="1000"
+       height="920"
+       id="rect5408" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Calque 1"
+       id="layer1-5"
+       transform="matrix(0.19586701,0,0,0.19586701,669.9996,6.0434814)">
+      <g
+         id="g1488"
+         transform="translate(-20,-20)">
+        <path
+           d="m 436.09929,640.18377 c 6.65006,10.80636 11.63761,15.79391 14.13139,15.79391 6.65006,0 11.63761,-3.32504 17.45642,-9.14384 4.98754,-6.65007 9.14383,-14.13139 11.63761,-21.61271 3.32503,-7.48132 4.15629,-15.7939 3.32503,-24.93774 -0.81818,-8.31258 -3.32503,-14.13139 -8.31258,-18.28768 -7.48132,-5.81881 -14.96265,-6.65007 -22.44397,-3.32503 -6.65006,3.32503 -12.46887,10.80635 -17.45642,23.27522 -3.32503,9.9751 -4.98755,17.45642 -4.98755,21.61271 0,4.15629 2.48723,9.9751 6.65007,16.62516 z m -123.85745,8.31258 c 6.65006,5.81881 13.30013,8.31258 19.95019,6.65007 7.48132,-2.49378 13.30013,-8.31258 18.28768,-17.45642 11.63761,-22.44397 12.46887,-38.23787 2.48723,-48.21297 -4.98755,-5.8188 -12.46887,-7.48132 -22.44397,-6.65006 -9.14384,0.83126 -15.7939,4.98755 -19.11894,11.63761 -4.15629,7.48132 -6.65006,17.45642 -5.8188,29.09403 0,12.46887 2.48723,20.78145 6.65006,24.93774 z m -118.8699,-7.48132 c 4.15629,8.31258 9.14383,13.30013 16.62516,14.96265 6.65006,1.66251 13.30013,0 19.11893,-5.81881 6.65007,-4.98755 9.9751,-12.46887 11.63761,-22.44397 2.48723,-9.97509 0,-19.11893 -6.65006,-27.43151 -7.48132,-9.14384 -14.96264,-12.46887 -24.93774,-10.80636 -6.65007,1.66252 -12.46887,8.31258 -16.62516,19.9502 -3.32504,11.63761 -3.32504,22.44396 0.81818,31.5878 z m 49.87548,288.44653 c -50.70674,4.9876 -84.78832,7.4813 -102.24474,8.3126 -16.62516,0.8313 -26.60026,-0.8313 -28.26278,-4.1563 -1.66906,-2.4938 -0.81818,-27.4315 3.32504,-75.64447 3.32503,-46.55046 4.98754,-142.14513 3.32503,-285.12152 L 117.72091,358.38729 163.4401,354.231 c 31.58781,-3.32503 83.1258,-9.14384 155.44526,-18.28768 35.74409,-4.15629 64.83812,-7.48132 88.11335,-8.31258 22.44397,-1.66251 43.22542,-1.66251 59.85058,-1.66251 17.45642,1.66251 30.75655,4.15629 39.90039,8.31258 9.97509,4.15629 16.62516,9.97509 22.44397,17.45642 4.98754,7.48132 9.14383,16.62516 10.80635,28.26277 4.15629,17.45642 2.48723,82.29455 -4.98755,192.85187 -6.65006,108.89481 -9.97509,191.18935 -10.80635,246.05239 l -1.66906,79.8008 -42.39417,4.1563 c -28.26277,2.4937 -60.68183,6.65 -95.59467,11.6376 -34.91284,4.1563 -81.46329,9.1438 -141.31387,14.9626 z m -139.65135,49.8755 c 0.81818,0 1.66906,0 2.48722,0.8313 11.63762,4.1563 24.10649,6.65 37.40662,5.8188 12.46887,-0.8313 52.36925,-4.9876 118.03864,-12.4689 5.81881,-0.8313 9.9751,-1.6625 12.46887,-1.6625 88.11336,-10.8064 158.77029,-18.2877 211.97081,-23.2752 l 79.80077,-7.4814 -1.66906,-59.01929 c -0.81819,-30.75655 0,-85.61958 4.15629,-164.5891 3.32503,-78.96951 8.31258,-150.45771 13.30013,-215.29583 4.15629,-44.05668 4.15629,-83.12581 1.66906,-114.71362 -3.32503,-33.25032 -9.14384,-54.03177 -18.28768,-64.00687 -17.45642,-19.11893 -44.05668,-31.5878 -78.96951,-37.40661 -34.91284,-5.81881 -80.63204,-4.15629 -137.98884,4.15629 -46.55045,7.48132 -95.59468,11.63761 -147.13268,14.13139 -50.70674,1.66251 -80.63203,3.32503 -89.77587,4.98755 -6.65006,0.83125 -11.63761,3.32503 -14.96264,8.31258 -3.32504,3.32503 -5.81881,13.30013 -7.48133,29.09403 -2.48722,15.7939 -3.32503,34.91284 -3.32503,58.18806 -0.81818,23.27523 -0.81818,58.18807 -0.81818,105.56978 0,111.38858 -3.32503,199.50193 -8.31258,265.17132 -9.14384,115.54482 -9.14384,178.72052 0.81818,188.69562 4.98755,4.9875 14.13139,9.9751 26.60026,14.9626 z"
+           stroke-width="8.65883"
+           id="path1315"
+           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal" />
+        <path
+           d="m 340.13287,229.03324 c 4.1562,5.81881 8.3125,8.31258 10.8063,6.65007 3.325,0 6.6501,-4.98755 9.9751,-12.46887 4.1563,-9.14384 4.1563,-28.26278 0,-55.69429 -4.9875,-27.43152 -10.8063,-43.22542 -16.6252,-47.38171 -5.8188,-4.15629 -13.3001,-6.65007 -19.9502,-5.81881 -8.31253,0.83126 -12.46882,3.32503 -14.13134,8.31258 -1.66909,4.98755 1.66901,22.44397 9.9751,52.36926 8.31254,29.92529 14.96264,48.21297 19.95024,54.03177 z m 97.2571,14.13139 c 2.4872,4.15629 4.9876,7.48132 6.6501,9.14384 2.4872,2.49377 4.9876,2.49377 7.4813,0.83126 2.4872,-1.66252 5.8188,-4.98755 9.1439,-9.14384 2.4872,-4.98755 6.65,-11.63762 10.8063,-20.78145 10.8064,-21.61271 24.9378,-44.88794 43.2255,-70.65694 30.7565,-44.05668 34.0815,-66.50064 8.3125,-66.50064 -5.8188,0 -11.6376,2.49377 -17.4564,8.31258 -5.8188,5.8188 -14.1314,14.96264 -24.1065,29.09403 -24.1065,34.08158 -39.0691,59.01932 -45.7192,75.64448 -4.9875,15.79391 -4.9875,30.75655 1.669,44.05668 z m -224.43965,0.83126 c 10.80636,6.65006 19.11896,9.97509 26.60028,9.97509 6.65006,-0.83125 10.80635,-4.15629 11.63761,-10.80635 0.81827,-2.49377 -3.32503,-9.9751 -12.46887,-21.61271 -9.14384,-11.63761 -19.95021,-24.10648 -32.41908,-38.23787 -17.45642,-18.28768 -29.92529,-31.58781 -39.90039,-39.06913 -8.31258,-7.48132 -15.7939,-11.63761 -21.61271,-11.63761 -5.8188,0 -9.9751,0.83126 -11.63761,3.32503 -2.48723,2.49377 -3.32503,6.65006 -3.32503,12.46887 0,8.31258 9.97509,24.10648 29.92529,46.55045 19.11893,22.44397 37.40661,39.06913 53.20051,49.04423 z"
+           stroke-width="8.65883"
+           id="path1371"
+           style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+           sodipodi:nodetypes="ccccsccccccccccsscccccccsccscscc" />
+      </g>
+      <path
+         d="m 819.91654,183.24961 c 11.89231,5.57888 17.41534,12.18125 16.56911,19.80714 -1.88249,14.5652 -9.03971,22.08972 -21.4717,22.57355 -15.25178,-1.69249 -30.35666,2.48774 -45.31462,12.54069 -24.99327,16.52602 -40.19253,30.3572 -55.69017,46.47283 11.83763,6.27274 25.81588,9.84081 41.56423,10.65669 16.43495,0.62586 31.87673,3.00493 46.32538,7.13719 33.01679,7.12442 56.5683,22.78171 70.65455,46.97184 0.90695,8.61904 0.214,15.46333 -2.07885,20.53289 -23.82285,28.76799 -57.4048,54.32344 -100.74585,76.6663 -41.96789,21.96287 -82.53467,34.29837 -121.70038,37.00649 -13.19202,-2.2625 -19.83994,-8.92316 -19.94377,-19.98199 0.0862,-10.37222 5.77527,-17.86002 17.06719,-22.46337 46.03156,-4.60821 94.82219,-23.28505 146.3719,-56.03053 15.14797,-9.36634 26.578,-18.81251 34.29009,-28.3385 -13.95207,-5.00886 -28.8973,-8.26451 -44.83567,-9.76697 -15.93836,-1.50246 -31.62843,-3.44321 -47.07023,-5.82228 -14.94522,-3.25565 -28.80229,-7.9212 -41.57119,-13.99666 -12.08232,-6.26546 -22.57112,-8.995 -29.68772,-24.02642 -3.34673,-9.42217 -1.08735,-31.17006 4.25841,-38.56284 56.87786,-61.5693 107.63396,-85.0803 153.00929,-81.37605 z"
+         style="font-weight:bold;font-size:533.333px;line-height:0.7;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold';word-spacing:0px;white-space:pre;stroke-width:2.0036"
+         id="path25720"
+         sodipodi:nodetypes="cccccccccccccccsccccc" />
+      <path
+         d="m 1068.7509,184.12787 q 14.8907,10.56862 33.3676,24.29596 20.0561,11.93426 34.8875,26.90839 40.2072,36.05194 53.0077,67.06872 l 5.3792,4.73805 q 33.0465,67.31788 6.4466,117.76116 -12.7536,23.15549 -35.2325,37.10795 -21.4458,14.22569 -47.392,16.20848 -61.2496,5.91294 -114.9819,-45.87319 -36.34804,-33.92629 -47.97268,-94.47538 -9.24988,-44.44699 -0.36694,-107.31141 3.84777,-35.45773 43.4619,-51.51184 39.61402,-16.05412 69.39552,5.08311 z m -63.4482,168.91652 q 10.2475,28.13115 27.8455,49.36329 18.6311,21.50529 53.7563,30.79166 35.1251,9.28638 57.6041,-4.66607 22.4789,-13.95257 25.4479,-41.90551 -11.3046,-7.40992 -10.8532,-21.65951 5.2134,-40.6232 -35.9081,-85.75928 -36.0154,-39.36494 -74.3942,-57.24861 -7.7185,-4.25122 -16.8026,-3.33695 -8.3242,2.22047 -17.1352,2.10161 -3.7049,5.6523 -9.4761,10.75835 -4.738,5.37918 -9.59492,19.56937 -5.13,15.22326 -2.9336,44.54184 1.9234,30.35169 12.44412,57.44981 z"
+         style="font-weight:bold;font-size:533.333px;line-height:0.7;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold';word-spacing:0px;white-space:pre;stroke-width:2.0036"
+         id="path25722" />
+      <path
+         d="m 880.1963,598.40627 c 12.17525,4.93094 13.53545,16.38506 10.68588,23.50903 -5.69914,13.53541 -14.60404,18.87833 -26.71471,16.02875 -14.24784,-5.69914 -34.97036,1.07328 -48.10485,4.77931 -28.83693,8.13664 -58.26302,34.33582 -65.65911,50.45662 13.53546,8.54872 27.78331,15.31647 42.74354,20.30323 15.67264,4.9867 29.92049,11.39821 42.74354,19.23456 29.92048,15.6726 40.27678,20.51367 47.4007,47.58465 1.39504,22.12345 -4.86803,33.53641 -10.60309,42.4633 -30.63287,21.37175 -50.32154,33.4536 -98.05183,43.42715 -46.30551,9.97346 -122.1077,3.74905 -136.82156,-20.50372 -6.94253,-11.44333 -11.25967,-30.71251 -1.99456,-36.75112 13.39032,-8.72727 16.96906,-4.88961 25.72869,3.3491 26.52147,21.42847 68.64901,25.02487 133.5343,10.01004 17.09742,-4.98677 33.53183,-15.00396 41.53587,-26.78315 -5.59985,-15.18399 -17.82592,-19.69652 -32.78617,-25.39559 -14.96023,-5.69914 -29.56428,-11.75452 -43.81212,-18.16611 -13.53546,-7.12389 -25.64614,-15.31638 -36.33201,-24.57747 -9.97349,-9.26109 -16.38502,-22.08417 -19.2346,-38.46923 -0.71238,-9.97346 4.6507,-16.65199 9.6173,-23.50891 35.57936,-49.12099 120.44338,-85.49128 166.12479,-66.99044 z"
+         style="font-weight:bold;font-size:533.333px;line-height:0.7;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold';word-spacing:0px;white-space:pre;stroke-width:2.0036"
+         id="path25724"
+         sodipodi:nodetypes="sccsccccccsscccscccss" />
+      <path
+         d="m 1058.5013,664.91444 c 5.3094,-12.63282 13.4442,-17.65032 24.4044,-15.05247 11.6699,2.53441 17.3653,10.25109 17.0862,23.15 -7.2232,39.26693 -13.0274,78.40715 -17.4123,117.4207 -3.7388,38.24069 -7.4633,49.94263 -14.6866,89.20956 -4.4731,13.98859 -12.8994,19.74731 -25.2788,17.27614 -12.3794,-2.47108 -17.4602,-11.31548 -15.2425,-26.53314 2.2811,-14.50812 4.5621,-29.01625 6.8432,-43.52439 2.9273,-15.28103 4.2359,-20.26268 6.517,-34.7708 l -0.095,-1.06433 c 3.5864,-23.92255 5.6476,-30.61117 7.1052,-54.3437 2.1039,-24.50544 5.6903,-48.42795 10.7592,-71.76757 z m 37.6909,-107.8571 c 12.4428,3.18068 19.1393,10.09278 20.0892,20.73634 0.95,10.64357 -4.8343,17.95454 -17.3533,21.93293 l -4.2574,0.38005 c -7.8686,-0.0129 -13.7668,-1.98963 -17.6947,-5.93037 -3.2183,-4.00408 -5.0809,-8.8444 -5.5875,-14.52096 -0.3672,-12.12605 6.4815,-19.53202 20.5463,-22.21794 z"
+         style="font-weight:bold;font-size:533.333px;line-height:0.7;font-family:Karumbi;-inkscape-font-specification:'Karumbi Bold';word-spacing:0px;white-space:pre;stroke-width:2.0036"
+         id="path25726"
+         sodipodi:nodetypes="sccccscccccsscscccccc" />
+      <text
+         xml:space="preserve"
+         id="text14072"
+         style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect14074)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="nimi">
+    
+    <g
+        id="g-1"
+        transform="translate(0,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/A/kin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">a/kin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[emphasis]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kule.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kule</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">color</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mute.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mute</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">many, very</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sewi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sewi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">top, high, holy</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Akesi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">akesi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">reptile, amphibian</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kulupu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kulupu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">group</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Nanpa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">nanpa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">number</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sijelo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sijelo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">body</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ala.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ala</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">no, nothing</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,0)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kute.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kute</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">listen, ear</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Nasa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">nasa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">strange, weird</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sike.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sike</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">circle</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Alasa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">alasa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">hunt, search</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/La.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">la</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[context]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Nasin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">nasin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">way, path</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">new, again</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ale.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ale</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">all, everything</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lape.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lape</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">sleep</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Nena.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">nena</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">bump, nose</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,150)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sina.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sina</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">you</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Anpa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">anpa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">low</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Laso.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">laso</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">blue, green</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ni.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ni</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">this, that</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sinpin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sinpin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">face, wall</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ante.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ante</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">different</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lawa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lawa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">head, rule</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Nimi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">nimi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">name, word</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sitelen.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sitelen</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">picture, write</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Anu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">anu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">or</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,300)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Len.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">len</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">clothing, cover</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Noka.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">noka</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">leg, foot</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sona.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sona</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">know</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Awen.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">awen</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">keep, stay</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lete.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lete</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">cold</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/O.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">o</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[wish/command]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Soweli.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">soweli</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">animal</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/E.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">e</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[direct object]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Li.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">li</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[predicate]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Olin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">olin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">love</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,450)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Suli.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">suli</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">big, important</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/En.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">en</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[and]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lili.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lili</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">small</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ona.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ona</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">he/she/it/they</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Suno.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">suno</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">sun, light</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Esun.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">esun</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">shop, trade</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Linja.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">linja</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">line</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Open.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">open</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">start, open</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Supa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">supa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">surface, table</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ijo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ijo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">thing</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,600)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lipu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lipu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">flat, page, book</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pakala.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pakala</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">broken</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Suwi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">suwi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">sweet, cute</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ike.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ike</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">bad</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Loje.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">loje</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">red</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pali.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pali</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">do, make, work</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Tan.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">tan</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">from, because</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ilo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ilo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">tool</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lon.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lon</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">in/at; true</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Palisa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">palisa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">stick, rod</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,750)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Taso.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">taso</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">but; only</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Insa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">insa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">inside</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Luka.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">luka</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">hand, arm</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pan.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pan</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">bread, grain</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Tawa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">tawa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">go, move; to</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Jaki.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">jaki</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">gross, trash</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lukin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lukin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">see, eye; try to</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pana.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pana</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">give</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Telo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">telo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">water, liquid</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Jan.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">jan</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">person</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,900)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Lupa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">lupa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">hole</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[regrouper]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Tenpo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">tenpo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">time</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Jelo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">jelo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">yellow</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ma.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ma</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">land</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pilin.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pilin</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">heart, feel</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Toki.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">toki</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">talk, language</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Jo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">jo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">have</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mama.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mama</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">parent</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pimeja.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pimeja</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">dark, black</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,1050)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Tomo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">tomo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">house, room</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kala.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kala</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">fish</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mani.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mani</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">money</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pini.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pini</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">end, finish</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Tu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">tu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">two</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kalama.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kalama</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">sound</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Meli.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">meli</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">female</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pipi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pipi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">bug, insect</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Unpa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">unpa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">sex</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kama.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kama</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">come</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,1200)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">I, me, we, us</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Poka.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">poka</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">side, vicinity</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Uta.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">uta</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">mouth</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kasi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kasi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">plant</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mije.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mije</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">male</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Poki.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">poki</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">box, container</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Utala.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">utala</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">fight, battle</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ken.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ken</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">can; possible</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Moku.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">moku</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">eat, food</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pona.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pona</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">good, simple</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,1350)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Walo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">walo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">white</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kepeken.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kepeken</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">using, with (tool)</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Moli.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">moli</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">dead, kill</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Pu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">pu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">(toki pona book)</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Wan.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">wan</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">one</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kili.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kili</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">fruit</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Monsi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">monsi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">back</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Sama.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">sama</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">same; like</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Waso.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">waso</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">bird</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kiwen.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kiwen</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">hard, rock</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,1500)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mu.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mu</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[animal noise]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(0,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Seli.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">seli</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">hot, fire</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(150,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Wawa.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">wawa</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">strong, energy</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(300,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Ko.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">ko</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">paste, powder</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(450,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Mun.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">mun</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">moon, star</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(600,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Selo.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">selo</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">layer, skin</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(750,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Weka.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">weka</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">away</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(900,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Kon.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">kon</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">air, spirit, essence</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1050,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Musi.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">musi</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">entertaining</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1200,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Seme.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">seme</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">[what]</tspan></tspan></text>
+    </g>
+    
+    
+    <g
+        id="g-1"
+        transform="translate(1350,1650)">
+        <image
+            preserveAspectRatio="none"
+            inkscape:svg-dpi="96"
+            width="103.945"
+            height="118.345"
+            xlink:href="../sitelen_pona_svg/Wile.svg"
+            id="image1"
+            x="-51.972"
+            y="-59.1725" />
+        <text
+            xml:space="preserve"
+            id="text1"
+            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;"
+            x="0"
+            y="0"><tspan
+                    x="0"
+                    y="60"
+                    id="tspan11"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan12">wile</tspan></tspan><tspan
+                x="0"
+                y="75"
+                id="tspan13"><tspan
+                    style="text-align:center;text-anchor:middle"
+                    id="tspan14">want, need</tspan></tspan></text>
+    </g>
+    
+  </g>
+</svg>

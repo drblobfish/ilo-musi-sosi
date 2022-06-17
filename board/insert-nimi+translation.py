@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
-tree = ET.parse('sosi-board.svg')
+import copy
+
+tree = ET.parse('sosi-board-nimi.svg')
 
 root = tree.getroot()
 
@@ -14,4 +16,17 @@ for group in root.iterfind("svg:g",ns):
 	if group.attrib.get(label,"")=="nimi":
 		nimiLayer = group
 
-print(nimiLayer.attrib)
+template = nimiLayer.find("svg:g",ns)
+
+new = copy.deepcopy(template)
+
+new.set("id","new_id")
+
+for child in new:
+	child.set("x", str( float(child.get("x")) + 100 ))
+
+nimiLayer.append(new)
+
+print(ET.dump(nimiLayer))
+
+tree.write("sosi-board-nimi-2.svg")
